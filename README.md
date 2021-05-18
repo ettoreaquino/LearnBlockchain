@@ -20,6 +20,8 @@ This part provides a basic understand of how a simple block behaves and how to a
 
 ### PT: II - Proof Of Work
 
+This is a very important part of a Blockchain. Although Proof of Work is not the only way of ensuring security, it surelly is the most popular so far. This is the algorithm used by Bitcoin and other cryptocurrencies to validate transactions and add new blocks to the chain.
+
 ### PT: III - Persistence
 
 ### PT: III (extended) - CLI
